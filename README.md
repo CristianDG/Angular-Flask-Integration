@@ -2,6 +2,10 @@
 
 This is a todo app using the Angular framework for the frontend and the Flask framework for the backend.
 
+## Disclaimer
+
+This application can have some security issues because the libraries are not updated, but they can be updated normally.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
